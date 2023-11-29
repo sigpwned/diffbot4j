@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.sigpwned</groupId>
     <artifactId>diffbot4j</artifactId>
-    <version>20230813.1.0</version>
+    <version>20230813.1.1-SNAPSHOT</version>
     <name>diffbot4j</name>
     <inceptionYear>2023</inceptionYear>
     <description>Diffbot API client for Java</description>
@@ -17,7 +17,7 @@
         <connection>scm:git:ssh://git@github.com/sigpwned/diffbot4j.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/sigpwned/diffbot4j.git</developerConnection>
         <url>https://github.com/sigpwned/diffbot4j/tree/main</url>
-        <tag>v20230813.1.0</tag>
+        <tag>HEAD</tag>
     </scm>
     <licenses>
         <license>
